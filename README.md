@@ -1,6 +1,6 @@
-# **InOS (InCreativity OS)**
+# **InOS (InCreativity OS)** <img src="./assets/logo.png" width="80" alt="InOS Logo" align="right">
 
-**InOS** is a behavior-adaptive, lightweight Linux-based operating system designed to behave as a **living system manager**. Built by **InDangie Labs**, the core philosophy of the project is that **the operating system should adapt to the user**, rather than forcing the user to adapt to the software.
+**InOS** is a behavior-adaptive, lightweight Linux-based operating system designed to behave as a **living system manager**. Built by **InDangie Labs**, the core philosophy of the project is that the system should learn, adapt, and grow with its user.
 
 The first release, codenamed **"School Best Mate,"** is a beginner-friendly environment optimized for student productivity, gaming, and intelligent system adaptation.
 
@@ -56,7 +56,7 @@ The AI dynamically swaps models to balance resource usage:
 *   **Assist Mode:** Activates advanced models like **Qwen 3 (4B-Instruct)** for proactive coding aid and complex reasoning.
 
 ### **App Interaction via MCP**
-To achieve "Gemini-like" interaction with applications, InOS implements the **Model Context Protocol (MCP)**. This open-standard allows the local AI to securely interface with Linux system tools and APIs to perform actions like managing files, checking battery levels, or controlling system settings.
+To achieve "Gemini-like" interaction with applications, InOS implements the **Model Context Protocol (MCP)**. This open-standard allows the local AI to securely interface with Linux system tools and applications.
 
 ---
 
