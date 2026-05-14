@@ -1,4 +1,4 @@
-# **InOS (InCreativity OS)** <img src="./assets/InOS.png" width="80" alt="InOS Logo" align="right">
+# **InOS (InCreativity OS)** <img src="./assets/InOS.png" width="240" alt="InOS Logo" align="right">
 
 **InOS** is a behavior-adaptive, lightweight Linux-based operating system designed to behave as a **living system manager**. Built by **InDangie Labs**, the core philosophy of the project is that the system should learn, adapt, and grow with its user.
 
